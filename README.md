@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for New Jersey, US
 
-> Free BeamStation sample export with 69 rows and masked direct-contact fields.
+> Free BeamStation sample export with 59 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `516835` |
 | Location | New Jersey |
 | Category | Restaurants |
-| Full dataset size | 699 records |
-| Free sample size | 69 records (9.87%) |
-| Last export | 2026-04-15T06:18:40.816156+00:00 |
+| Full dataset size | 590 records |
+| Free sample size | 59 records (10.0%) |
+| Last export | 2026-04-22T12:19:21.692291+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-new-jersey-us-sample-516835/releases/download/sample-latest/beamstation_516835_restaurants-us-nj_SAMPLE_DIST.csv) |
 
 ## What is in this sample
