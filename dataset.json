@@ -6,17 +6,17 @@
   "config_category": "acquisition",
   "config_description": "--HHI Dominance--\n\nNear-monopoly positions in their local market.\n\nBusinesses that mathematically \"own\" their local market (>30% share) with high HHI contribution of >900 within 1km.\n\nSafe, cash-flow-heavy bets that competitors can't easily dislodge.",
   "config_name": "The HHI Monopoly Index for New Jersey, US",
-  "export_job_id": "6bc00c5e-1034-4e5f-98cb-aeef3c189d99",
+  "export_job_id": "36f4f56b-e8cb-4246-af3d-7ad53f2ef491",
   "github_org": "Beamstation-Datasets",
   "id_short": 516835,
   "location_name": "New Jersey",
   "location_type": "state",
   "repo_name": "the-hhi-monopoly-index-for-new-jersey-us-sample-516835",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/516835/beamstation_516835_restaurants-us-nj_SAMPLE_DIST.csv",
-  "sample_pct": 10.0,
+  "sample_pct": 9.93,
   "sample_records": 59,
-  "sample_sha256": "d1d9747666faff767223272899252c5e6437c5a29ed41a459a454bdaa13f7308",
-  "sample_size_bytes": 249653,
-  "total_records": 590,
-  "updated_at": "2026-04-22T12:19:21.692291+00:00"
+  "sample_sha256": "3ac3eb09036bf7d7ddf95cd0b2a7b2f8c9d7d65cacc37eb0701fa8a950c26528",
+  "sample_size_bytes": 237399,
+  "total_records": 594,
+  "updated_at": "2026-04-29T13:14:14.590577+00:00"
 }
