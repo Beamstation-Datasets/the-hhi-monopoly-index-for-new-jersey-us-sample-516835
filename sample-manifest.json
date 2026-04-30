@@ -1,12 +1,12 @@
 {
-  "export_job_id": "6bc00c5e-1034-4e5f-98cb-aeef3c189d99",
+  "export_job_id": "36f4f56b-e8cb-4246-af3d-7ad53f2ef491",
   "id_short": 516835,
-  "published_at": "2026-04-22T19:50:44Z",
+  "published_at": "2026-04-30T07:33:06Z",
   "repo_name": "the-hhi-monopoly-index-for-new-jersey-us-sample-516835",
   "sample_asset_name": "beamstation_516835_restaurants-us-nj_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/516835/beamstation_516835_restaurants-us-nj_SAMPLE_DIST.csv",
   "sample_records": 59,
-  "sample_sha256": "d1d9747666faff767223272899252c5e6437c5a29ed41a459a454bdaa13f7308",
-  "sample_size_bytes": 249653,
-  "total_records": 590
+  "sample_sha256": "3ac3eb09036bf7d7ddf95cd0b2a7b2f8c9d7d65cacc37eb0701fa8a950c26528",
+  "sample_size_bytes": 237399,
+  "total_records": 594
 }
